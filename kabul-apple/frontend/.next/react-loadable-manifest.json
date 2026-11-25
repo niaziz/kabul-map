@@ -1,10 +1,9 @@
 {
   "components/MapLoader.tsx -> ./KabulMap": {
-    "id": 245,
+    "id": "components/MapLoader.tsx -> ./KabulMap",
     "files": [
-      "static/css/afe8c98f2a6b7940.css",
-      "static/chunks/05f6971a.1fa1b92dda9551c1.js",
-      "static/chunks/245.ce3e1af3acd8c9a0.js"
+      "static/css/_app-pages-browser_components_KabulMap_tsx.css",
+      "static/chunks/_app-pages-browser_components_KabulMap_tsx.js"
     ]
   }
 }

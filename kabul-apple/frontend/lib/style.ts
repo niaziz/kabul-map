@@ -74,6 +74,11 @@ function layers(): any[] {
   for (const [n, cls, fill, , w, mz] of roads) road(n, cls, fill, w, mz);
 
   L.push({
+    id: "building-outline", type: "line", source: SRC, "source-layer": "building", minzoom: 14,
+    layout: { visibility: "none" },
+    paint: { "line-color": "#2d3454", "line-width": ramp(14, 0.4, 18, 1.4), "line-opacity": 0.85 },
+  });
+  L.push({
     id: "building-3d",
     type: "fill-extrusion",
     source: SRC,
