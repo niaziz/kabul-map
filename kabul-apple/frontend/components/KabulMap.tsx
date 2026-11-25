@@ -105,6 +105,10 @@ export default function KabulMap() {
     const map = mapRef.current;
     if (!ready || !map) return;
     map.setLayoutProperty("building-3d", "visibility", buildings3dVisible ? "visible" : "none");
+    for (const id of ["poi", "poi-minor", "road-name"]) {
+      if (map.getLayer(id))
+        map.setLayoutProperty(id, "visibility", buildings3dVisible ? "none" : "visible");
+    }
     map.easeTo({
       pitch: buildings3dVisible ? 58 : 0,
       bearing: buildings3dVisible ? -35 : 0,
@@ -222,7 +226,6 @@ export default function KabulMap() {
           "text-max-width": 10,
           "text-optional": true,
           "text-pitch-alignment": "viewport",
-          "symbol-sort-key": ["get", "name"],
         },
         paint: {
           "text-color": "#44362c",

@@ -87,7 +87,7 @@ function layers(): any[] {
         ["get", "colour"],
         [
           "match",
-          ["%", ["coalesce", ["id"], 0], 8],
+          ["%", ["coalesce", ["id"], ["get", "render_height"], 0], 8],
           0, "#e8cdb2",
           1, "#d5d9c8",
           2, "#c8d8e8",
@@ -134,6 +134,12 @@ function layers(): any[] {
 
 export const buildStyle = (): any => ({
   version: 8,
+  light: {
+    anchor: "viewport",
+    color: "#fff3df",
+    intensity: 0.72,
+    position: [1.15, 215, 42],
+  },
   glyphs: "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
   sources: {
     [SRC]: { type: "vector", url: "https://tiles.openfreemap.org/planet", attribution: ATTR },
