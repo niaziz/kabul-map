@@ -1,0 +1,499 @@
+[
+  {
+    "id": "babur-gardens",
+    "name": "Bagh-e Babur",
+    "name_fa": "باغ بابر",
+    "category": "landmark",
+    "lat": 34.502945,
+    "lng": 69.159471,
+    "description": "Historic terraced gardens and the tomb of Emperor Babur.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bagh-e_Babur-2013.jpg/480px-Bagh-e_Babur-2013.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bagh-e_Babur-2013.jpg",
+    "imageCredit": "Ninara, CC BY 2.0",
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "bagh-e-bala",
+    "name": "Bagh-e Bala Palace and Gardens",
+    "category": "landmark",
+    "lat": 34.539994,
+    "lng": 69.129933,
+    "description": "Historic palace and gardens on Bagh-e Bala Hill.",
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "darul-aman",
+    "name": "Darul Aman Palace",
+    "name_fa": "قصر دارالامان",
+    "category": "landmark",
+    "lat": 34.465271,
+    "lng": 69.119425,
+    "description": "Early 20th-century palace on the southwest edge of Kabul.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Darul_Aman%2C_Kabul%2C_Afghanistan_%289504262040%29.jpg/480px-Darul_Aman%2C_Kabul%2C_Afghanistan_%289504262040%29.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Darul_Aman,_Kabul,_Afghanistan_(9504262040).jpg",
+    "imageCredit": "Ninara, CC BY 2.0",
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "tajbeg-palace",
+    "name": "Tajbeg Palace",
+    "category": "landmark",
+    "lat": 34.454662,
+    "lng": 69.113365,
+    "description": "Historic palace southwest of the city centre.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TajbegPalaceKabul.JPG/480px-TajbegPalaceKabul.JPG",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:TajbegPalaceKabul.JPG",
+    "imageCredit": "Public domain",
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "national-museum",
+    "name": "National Museum of Afghanistan",
+    "name_fa": "موزیم ملی افغانستان",
+    "category": "museum",
+    "lat": 34.4675623,
+    "lng": 69.1200454,
+    "description": "Afghanistan's national archaeology and history museum.",
+    "source": "OpenStreetMap"
+  },
+  {
+    "id": "national-gallery",
+    "name": "National Gallery of Afghanistan",
+    "category": "museum",
+    "lat": 34.5175,
+    "lng": 69.1711,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "national-archives",
+    "name": "National Archives of Afghanistan",
+    "category": "museum",
+    "lat": 34.5247,
+    "lng": 69.1655,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "bala-hissar",
+    "name": "Bala Hissar",
+    "name_fa": "قلعه بالاحصار",
+    "category": "landmark",
+    "lat": 34.5053907,
+    "lng": 69.1911663,
+    "description": "Historic hilltop fortress; access may be restricted.",
+    "source": "OpenStreetMap"
+  },
+  {
+    "id": "old-city-wall",
+    "name": "Kabul Old City Wall",
+    "category": "landmark",
+    "lat": 34.5037,
+    "lng": 69.1672,
+    "description": "Historic city wall; check current access and local advice.",
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "nadir-zahir-mausoleum",
+    "name": "Mausoleum of Nadir Shah and Zahir Shah",
+    "category": "landmark",
+    "lat": 34.5164,
+    "lng": 69.1754,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "sakhi-shrine",
+    "name": "Sakhi Shrine",
+    "category": "religious",
+    "lat": 34.52,
+    "lng": 69.1466,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "tv-mount",
+    "name": "TV Mount",
+    "category": "viewpoint",
+    "lat": 34.5177,
+    "lng": 69.1614,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "qargha-lake",
+    "name": "Qargha Lake",
+    "name_fa": "دریاچه قرغه",
+    "category": "leisure",
+    "lat": 34.55294,
+    "lng": 69.03442,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "kabul-zoo",
+    "name": "Kabul Zoo",
+    "category": "leisure",
+    "lat": 34.509611,
+    "lng": 69.155088,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "bibi-mahru-hill",
+    "name": "Bibi Mahru Hill",
+    "category": "viewpoint",
+    "lat": 34.5440046,
+    "lng": 69.1830777,
+    "source": "OpenStreetMap",
+    "modelUrl": "https://sketchfab.com/3d-models/kabul-bibi-mahro-hill-3aa155d55b414cebba92bce053b1946d",
+    "modelEmbedUrl": "https://sketchfab.com/models/3aa155d55b414cebba92bce053b1946d/embed",
+    "modelCredit": "sabir, CC BY 4.0"
+  },
+  {
+    "id": "ariana-cinema",
+    "name": "Ariana Cinema",
+    "category": "entertainment",
+    "lat": 34.5196,
+    "lng": 69.1804,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "amani-sports-field",
+    "name": "Amani High School sports field",
+    "category": "sports",
+    "lat": 34.5283,
+    "lng": 69.1848,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "ghazi-stadium",
+    "name": "Ghazi Stadium",
+    "category": "sports",
+    "lat": 34.518531,
+    "lng": 69.193711,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "mandawi-bazaar",
+    "name": "Mandawi Bazaar",
+    "category": "market",
+    "lat": 34.516,
+    "lng": 69.178,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "lycee-maryam-bazaar",
+    "name": "Lycee Maryam Bazaar",
+    "category": "market",
+    "lat": 34.579,
+    "lng": 69.1396,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "gulbahar-business-center",
+    "name": "Gulbahar Business Center",
+    "category": "shopping",
+    "lat": 34.5237,
+    "lng": 69.1736,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "new-khairkhwa-market",
+    "name": "New Khairkhwa Market",
+    "category": "market",
+    "lat": 34.5187,
+    "lng": 69.1809,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "majid-mall",
+    "name": "Majid Mall",
+    "name_fa": "مجید مال",
+    "category": "shopping",
+    "lat": 34.5338,
+    "lng": 69.1727,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "roshan-plaza",
+    "name": "Roshan Plaza",
+    "category": "shopping",
+    "lat": 34.5297,
+    "lng": 69.1704,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "abc-super-market",
+    "name": "ABC Super Market",
+    "category": "shopping",
+    "lat": 34.5423,
+    "lng": 69.1638,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "afghan-spinneys",
+    "name": "Afghan Spinneys Supermarket",
+    "category": "shopping",
+    "lat": 34.5332,
+    "lng": 69.1758,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "al-wahed-market",
+    "name": "Al-Wahed Market",
+    "category": "shopping",
+    "lat": 34.5061,
+    "lng": 69.1423,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "finest-superstore",
+    "name": "Finest Superstore",
+    "category": "shopping",
+    "lat": 34.5373,
+    "lng": 69.1656,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "andkhoi-bastan",
+    "name": "Andkhoi Bastan Turkmen Restaurant",
+    "category": "restaurant",
+    "lat": 34.5383,
+    "lng": 69.1698,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "ansari-kunduz-kabab",
+    "name": "Ansari Kunduz Kabab",
+    "category": "restaurant",
+    "lat": 34.5328,
+    "lng": 69.165,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "biryani-house",
+    "name": "Biryani House",
+    "category": "restaurant",
+    "lat": 34.5373,
+    "lng": 69.1722,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "bolani-kolula-pushta",
+    "name": "Bolani",
+    "category": "restaurant",
+    "lat": 34.5358,
+    "lng": 69.1604,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "chicking",
+    "name": "Chicking",
+    "category": "restaurant",
+    "lat": 34.534,
+    "lng": 69.1726,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "mr-cook",
+    "name": "Mr. Cook",
+    "category": "restaurant",
+    "lat": 34.5321,
+    "lng": 69.1649,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "buffalo-kings",
+    "name": "Buffalo Kings",
+    "category": "restaurant",
+    "lat": 34.5338,
+    "lng": 69.1726,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "nfc-restaurant",
+    "name": "NFC Restaurant",
+    "category": "restaurant",
+    "lat": 34.5333,
+    "lng": 69.1758,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "cheezious-bites",
+    "name": "Cheezious Bites",
+    "category": "restaurant",
+    "lat": 34.5378,
+    "lng": 69.168,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "chief-burger",
+    "name": "Chief Burger Restaurant",
+    "category": "restaurant",
+    "lat": 34.5235,
+    "lng": 69.1738,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "galaxy-continental",
+    "name": "Galaxy Continental",
+    "category": "restaurant",
+    "lat": 34.506,
+    "lng": 69.1446,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "marhaba-restaurant",
+    "name": "Marhaba Restaurant",
+    "category": "restaurant",
+    "lat": 34.5111,
+    "lng": 69.1624,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "mezban-restaurant",
+    "name": "Mezban Restaurant",
+    "category": "restaurant",
+    "lat": 34.5355,
+    "lng": 69.1713,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "paaeez-continental",
+    "name": "Paaeez Continental",
+    "category": "restaurant",
+    "lat": 34.5326,
+    "lng": 69.1738,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "paitakht-restaurant",
+    "name": "Paitakht Restaurant",
+    "category": "restaurant",
+    "lat": 34.5306,
+    "lng": 69.1636,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "sufi-mahal",
+    "name": "Sufi Mahal Restaurant",
+    "category": "restaurant",
+    "lat": 34.542,
+    "lng": 69.166,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "al-arab-mandi",
+    "name": "Al Arab Mandi Restaurant",
+    "category": "restaurant",
+    "lat": 34.5339,
+    "lng": 69.1726,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "barg-continental",
+    "name": "Barg Continental Restaurant",
+    "category": "restaurant",
+    "lat": 34.5346,
+    "lng": 69.1709,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "bukhara-restaurant",
+    "name": "Bukhara Restaurant",
+    "category": "restaurant",
+    "lat": 34.506,
+    "lng": 69.1444,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "cafe-zarnegar",
+    "name": "Café Zarnegar",
+    "category": "restaurant",
+    "lat": 34.5205,
+    "lng": 69.178,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "istanbul-family",
+    "name": "Istanbul Family Restaurant",
+    "category": "restaurant",
+    "lat": 34.5424,
+    "lng": 69.1488,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "kaboora-restaurant",
+    "name": "Kaboora Restaurant",
+    "category": "restaurant",
+    "lat": 34.5331,
+    "lng": 69.1665,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "namak-restaurant",
+    "name": "Namak Restaurant",
+    "category": "restaurant",
+    "lat": 34.5375,
+    "lng": 69.1652,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "pamir-restaurant",
+    "name": "Pamir Restaurant",
+    "category": "restaurant",
+    "lat": 34.5374,
+    "lng": 69.1249,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "prime-steakhouse",
+    "name": "Prime Steakhouse",
+    "category": "restaurant",
+    "lat": 34.534,
+    "lng": 69.1726,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "shaam-kabul",
+    "name": "Shaam Kabul Restaurant",
+    "category": "restaurant",
+    "lat": 34.5324,
+    "lng": 69.1546,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "the-cafeteria",
+    "name": "The Cafeteria",
+    "category": "restaurant",
+    "lat": 34.537,
+    "lng": 69.1662,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "turkish-family-restaurant",
+    "name": "Turkish Family Restaurant and Cafe",
+    "category": "restaurant",
+    "lat": 34.5338,
+    "lng": 69.1725,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "ziyafat-restaurant",
+    "name": "Ziyafat Restaurant",
+    "category": "restaurant",
+    "lat": 34.5334,
+    "lng": 69.172,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "kabul-grand-hotel",
+    "name": "Kabul Grand Hotel",
+    "category": "hotel",
+    "lat": 34.520556,
+    "lng": 69.178056,
+    "source": "Wikivoyage"
+  },
+  {
+    "id": "kabul-intercontinental",
+    "name": "Kabul Intercontinental Hotel",
+    "category": "hotel",
+    "lat": 34.536944,
+    "lng": 69.125278,
+    "source": "Wikivoyage"
+  }
+]

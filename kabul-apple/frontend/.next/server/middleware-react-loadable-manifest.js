@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/MapLoader.tsx -> ./KabulMap\":{\"id\":\"components/MapLoader.tsx -> ./KabulMap\",\"files\":[\"static/css/_app-pages-browser_components_KabulMap_tsx.css\",\"static/chunks/_app-pages-browser_components_KabulMap_tsx.js\"]}}"
